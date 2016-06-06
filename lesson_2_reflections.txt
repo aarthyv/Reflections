@@ -31,6 +31,8 @@ Diagrams tell us how to identify the latest commits, its parent and its relation
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+All changes are merged into the master brach, with the commits kept for both files and 
+displayed according to timestamp. Hence the representation.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
