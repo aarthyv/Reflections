@@ -8,3 +8,15 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 So that we pull/ push only meaningful changes and not create a lot of almost identical 
 files, making it difficult to track logical updates.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+Forks - Copy repository within git hub, to copy a project to our git hub account and then
+change it without affecting the original, also acknowledges the original creator of the
+repository.
+Clones- Copies the entire history of a repository either between github and local working
+directory or within the working directory. All commits are copied.
+Branches- Creates a sub- file of the same folder/ project either locally or on git hub.
+We would use fork to copy another person's files to our account on github, branch to 
+create a copy that we want to work on so as to not alter the master copy and clone to copy
+all the data and history of a repository
