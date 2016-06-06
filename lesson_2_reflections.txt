@@ -36,3 +36,12 @@ displayed according to timestamp. Hence the representation.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Automatic merging
+Pros- Fast and easy to understand
+Cons- Very hard to figure out subtle changes or changes by different users
+
+Manual merging
+Pros- Can be done when conflicts arise from different versions of the same file being merged
+
+Cons- Requires tracking and altering to avoid further conflict, is labor intensive and 
+can be error prone
