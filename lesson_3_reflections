@@ -3,3 +3,8 @@ We would want to use a remote repository to
 1. Create a cloud based, web accessible copy to use anywhere
 2. To share our projects with others
 3. To work jointly on a project with collaborators off site.
+
+Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+So that we pull/ push only meaningful changes and not create a lot of almost identical 
+files, making it difficult to track logical updates.
