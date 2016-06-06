@@ -20,10 +20,14 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 When you want to make an identical copy of the same file but add a small change to it, 
 which you dont want to keep in the master file, adding a branch will help. Branches can
-help us make small changes without affecting the master.
+help us make small changes without affecting the master. It also make sit easier to share 
+versions we are working on as well as separate versions based on where we are on them.
 
 
 How do the diagrams help you visualize the branch structure?
+Diagrams tell us how to identify the latest commits, its parent and its relationship
+ with the other commits in the branches. They also serve as a map to navigate to
+ files as and when we want as well as understand how branches are inter related.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
