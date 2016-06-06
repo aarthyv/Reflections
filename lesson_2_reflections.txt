@@ -7,13 +7,21 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
 It offers a stage to consolidate and make decisions before actually commiting to git
-A repository is the destination for the commit while the WD is the original folder where the files were created.
+A repository is the destination for the commit while the WD is the original folder 
+where the files were created.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+you can use git diff to compare the versions of your file in the staging area to the file
+you just changed in the working directory and make sure the change is a logical one. 
+The staging area allows you to pause and ascertain alogical change before commiting.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you want to make an identical copy of the same file but add a small change to it, 
+which you dont want to keep in the master file, adding a branch will help. Branches can
+help us make small changes without affecting the master.
+
 
 How do the diagrams help you visualize the branch structure?
 
