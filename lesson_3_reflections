@@ -20,3 +20,7 @@ Branches- Creates a sub- file of the same folder/ project either locally or on g
 We would use fork to copy another person's files to our account on github, branch to 
 create a copy that we want to work on so as to not alter the master copy and clone to copy
 all the data and history of a repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps us track and sync the remite and local versions so that any changes in future 
+are in sync and incorporated into the working directory.
