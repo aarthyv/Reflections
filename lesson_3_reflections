@@ -24,3 +24,9 @@ all the data and history of a repository
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It helps us track and sync the remite and local versions so that any changes in future 
 are in sync and incorporated into the working directory.
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder
+Using google docs, dropbox or sending attachments through email.
+It ould be easier to only share what you want, but would be difficult to work on the same
+project collaboratively
